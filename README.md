@@ -2,7 +2,7 @@
 [AluraPets Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGQ2OTRhYWYtOWY2Yy00MGE5LWJlNjctNzM0ZTkxMjI3M2IyIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9&pageName=ReportSection)
 
 ## Summary
-This study project contains a Microsoft Power BI panel presenting a case study suggested in the course "Power BI Desktop: Data Manipulation in Power Query" on the Alura platform.
+This project contains a Microsoft Power BI dashboard presenting a case study suggested in the course "Power BI Desktop: Data Manipulation in Power Query" on the Alura platform.
 
 ## Objective
 Creation of a dashboard to analyze the sales of a fictitious petshop.
